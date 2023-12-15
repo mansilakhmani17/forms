@@ -1,0 +1,58 @@
+.body{
+    background-image :url(./assets/7.jpg);
+    height: 150px;
+}
+.one{
+    background-color: burlywood;
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-right: 80%;
+    display: flex;
+    justify-content: center;
+}
+.six{
+    background-color: burlywood;
+    font-size: xx-large;
+    margin-left: 20px;
+    margin-right: 80%;
+    display: flex;
+    justify-content: center;
+
+}
+.omg{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 20%;
+    height: 80%;
+    width: 80%;
+}
+.title{
+    margin-left: 320px;
+    height: 200px;
+    width: 800px;font-family: 'Times New Roman', Times, serif;
+    text-decoration:solid;
+
+}
+.silver{
+    display: flex;
+    margin-left:2px;
+}
+.gold{
+    display: flex;
+    margin-left: 400px;
+    margin-top: -590px;
+}
+.quit{
+    background-image: url(./assets/20.jpg);
+    max-width: 100%;
+    margin-bottom: 0px;
+    margin-top: 700px;
+    height: 800px;
+}
+.shift{
+    display: inline;
+    max-width: 90%;
+    align-items: center;
+    justify-content: center;
+}

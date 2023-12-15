@@ -1,0 +1,38 @@
+.type{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 200px;
+    width: 250px;
+    margin-left: 500px
+}
+.heading{
+    margin-left: 350px;
+}
+.details{
+    justify-content: center;
+    margin-left: 450px;
+    height: 50%;
+
+}
+body{
+    background-image: url(./assets/31.webp);
+}
+
+.box{
+    align-items: center;
+    margin-left: 300px;
+}
+.pp{
+    margin-left: 600px;
+   display: flex;
+   margin-top: -100px;
+}
+.paytm{
+    margin-left: 800px;
+    display: flex;
+    margin-top: -100px;
+}
+.shift {
+    margin-left: 200px;
+    display: flex;}
